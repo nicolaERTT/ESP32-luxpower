@@ -10,3 +10,8 @@ I set up the ESP32 with HA's ESPHOME firmware (easy to use via the web GUI), the
 
 ![TABLE MODBUS](https://github.com/user-attachments/assets/995531ef-e892-45fa-9a34-43aa97b4a366)
 https://github.com/nicolaERTT/ESP32-luxpower/blob/main/Luxpower%20table%20modbus%20address.pdf
+
+
+ I use Port RJ-45 to connect MAX485 RS485 converter to Luxpower
+
+ ![Port RJ-45 luxpower](https://github.com/user-attachments/assets/2c4eb826-d27b-4405-90e2-1cd69a6b87dc)
