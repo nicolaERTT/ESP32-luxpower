@@ -18,7 +18,9 @@ https://github.com/nicolaERTT/ESP32-luxpower/blob/main/Luxpower%20table%20modbus
 
 
 **Finally, I've attached the YAML file I used ;** you need to enter your initial configuration values.
+
 Obviously, the file only contains the sensors I'm interested in.
+
 Note some tricks for sensors that I've never seen on the web: SOC, state_class, and device_class to then get the energy produced or consumed with the integrals.
 
 https://github.com/nicolaERTT/ESP32-luxpower/blob/main/esp-luxp-demo.yaml
