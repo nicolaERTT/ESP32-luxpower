@@ -15,3 +15,10 @@ https://github.com/nicolaERTT/ESP32-luxpower/blob/main/Luxpower%20table%20modbus
  I use Port RJ-45 to connect MAX485 RS485 converter to Luxpower
 
  ![Port RJ-45 luxpower](https://github.com/user-attachments/assets/2c4eb826-d27b-4405-90e2-1cd69a6b87dc)
+
+
+**Finally, I've attached the YAML file I used ;** you need to enter your initial configuration values.
+Obviously, the file only contains the sensors I'm interested in.
+Note some tricks for sensors that I've never seen on the web: SOC, state_class, and device_class to then get the energy produced or consumed with the integrals.
+
+
