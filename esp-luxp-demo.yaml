@@ -454,6 +454,18 @@ number:
     max_value: 50
     step: 1
 
+  - platform: modbus_controller
+    modbus_controller_id: inverter_1
+    name: "Hysteresis SOC"
+    id: hysteresis_soc
+    register_type: holding
+    address: 253
+    value_type: U_WORD
+    unit_of_measurement: "%"
+    min_value: 5
+    max_value: 80
+    step: 1
+
 #  - platform: modbus_controller
 #    modbus_controller_id: inverter_1
 #    name: "Max Charge Current"
