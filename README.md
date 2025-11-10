@@ -14,6 +14,8 @@ https://github.com/nicolaERTT/ESP32-luxpower/blob/main/Luxpower%20table%20modbus
 
  I use Port RJ-45 to connect MAX485 RS485 converter to Luxpower
 
+**N.B.** Use pin 7 and 8 for RS485 this bus is for third party connections for this use
+
  ![Port RJ-45 luxpower](https://github.com/user-attachments/assets/2c4eb826-d27b-4405-90e2-1cd69a6b87dc)
 
 
