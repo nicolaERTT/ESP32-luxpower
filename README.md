@@ -25,7 +25,7 @@ Obviously, the file only contains the sensors I'm interested in.
 
 Note some tricks for sensors that I've never seen on the web: SOC, state_class, and device_class to then get the energy produced or consumed with the integrals.
 
-https://github.com/nicolaERTT/ESP32-luxpower/blob/main/esp-luxp-demo.yaml
+
 
 **added** the control called "hysteresis" which allows you to indicate after what percentage of battery disconnection (low SOC) you can go back off-grid
 
